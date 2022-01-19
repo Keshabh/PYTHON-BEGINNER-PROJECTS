@@ -1,2 +1,2 @@
 # PYTHON-BEGINNER-PROJECTS
-These projects are made using python basics
+These are the basic python mini projects.
